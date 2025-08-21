@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1JoDQr6F8Gbgwx1XfO4j6QfSmpMfNo6lq
+  /:
+    url: "https://author-p159716-e1700168.adobeaemcloud.com/bin/franklin.delivery/NandanG952/eds-training/main"
+    type: "markup"
+    suffix: ".html"
